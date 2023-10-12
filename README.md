@@ -15,7 +15,7 @@ This is the personal portfolio website of Anju Simmunto Soonjo. It showcases Anj
 
 ## Preview
 
-You can see the live website at [Anju's Portfolio](https://example.com).
+You can see the live website at [Anju's Portfolio](https://anjusimmuntosoonjoo.github.io/Portfolio/).
 
 ## Projects
 
